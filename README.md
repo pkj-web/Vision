@@ -1,6 +1,6 @@
 # Vision
 App for Drawing with you Eyes and Voice
-Made by the amazing team: Pranavsai Gandikota, Arwa Arshad Ali, David Navarrete Peter-Karl Jackson
+Made by the amazing team: Pranavsai Gandikota, Arwa Arshad Ali, David Navarrete, and Peter-Karl Jackson
 
 HOW TO RUN
 If you would like to try it, you would need to change the file paths in the batch file and install the required libraries
